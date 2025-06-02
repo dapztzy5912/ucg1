@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  padding: 2rem;
+  background: #f9f9f9;
+}
+input {
+  padding: 0.5rem;
+  width: 200px;
+}
+button {
+  padding: 0.5rem;
+}
+li {
+  margin-top: 0.5rem;
+  background: #fff;
+  padding: 0.5rem;
+  border-radius: 5px;
+}
